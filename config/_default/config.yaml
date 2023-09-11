@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Reza Mehrizi # Website name
-baseURL: 'https://rezamehrizi.github.io/Portfolio/' # Website URL
+baseURL: 'https://rezamehrizi.github.io/rezamehrizi/' # Website URL
 
 ############################
 ## LANGUAGE
