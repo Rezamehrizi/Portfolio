@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Reza Mehrizi</title><link>https://rezamehrizi.github.io/rezamehrizi/project/</link><atom:link href="https://rezamehrizi.github.io/rezamehrizi/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://rezamehrizi.github.io/rezamehrizi/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://rezamehrizi.github.io/rezamehrizi/project/</link></image><item><title>Web Scraping Insights from AI Related YouTube Videos</title><link>https://rezamehrizi.github.io/rezamehrizi/project/web-scrapping/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/rezamehrizi/project/web-scrapping/</guid><description>&lt;style>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Reza Mehrizi</title><link>https://rezamehrizi.github.io/project/</link><atom:link href="https://rezamehrizi.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://rezamehrizi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://rezamehrizi.github.io/project/</link></image><item><title>Web Scraping Insights from AI Related YouTube Videos</title><link>https://rezamehrizi.github.io/project/web-scrapping/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/project/web-scrapping/</guid><description>&lt;style>
 body {
 text-align: justify}
 &lt;/style>
@@ -18,10 +18,10 @@ text-align: justify}
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="ideogram-webscraping" srcset="
-/rezamehrizi/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_b902eb7733e67c63898031c6d9c7c21a.webp 400w,
-/rezamehrizi/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_aec770f18e2a095616a37ea6c784f8f8.webp 760w,
-/rezamehrizi/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://rezamehrizi.github.io/rezamehrizi/rezamehrizi/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_b902eb7733e67c63898031c6d9c7c21a.webp"
+/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_b902eb7733e67c63898031c6d9c7c21a.webp 400w,
+/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_aec770f18e2a095616a37ea6c784f8f8.webp 760w,
+/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://rezamehrizi.github.io/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_b902eb7733e67c63898031c6d9c7c21a.webp"
 width="760"
 height="475"
 loading="lazy" data-zoomable />&lt;/div>
@@ -172,10 +172,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="ideogram-processing" srcset="
-/rezamehrizi/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_604e96a30e44ec8cc5dc73cfd1ada025.webp 400w,
-/rezamehrizi/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_5d95a0511f66cb75513482286e657df1.webp 760w,
-/rezamehrizi/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://rezamehrizi.github.io/rezamehrizi/rezamehrizi/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_604e96a30e44ec8cc5dc73cfd1ada025.webp"
+/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_604e96a30e44ec8cc5dc73cfd1ada025.webp 400w,
+/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_5d95a0511f66cb75513482286e657df1.webp 760w,
+/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://rezamehrizi.github.io/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_604e96a30e44ec8cc5dc73cfd1ada025.webp"
 width="760"
 height="475"
 loading="lazy" data-zoomable />&lt;/div>
@@ -290,10 +290,10 @@ A new column, &lt;code>duration_minutes&lt;/code> is added to the table to store
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="ideogram-analysis" srcset="
-/rezamehrizi/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_8e43d24ebf3eaf394a6ba505382df96d.webp 400w,
-/rezamehrizi/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_4804986f866ca3f769d0b417160d6f3a.webp 760w,
-/rezamehrizi/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://rezamehrizi.github.io/rezamehrizi/rezamehrizi/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_8e43d24ebf3eaf394a6ba505382df96d.webp"
+/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_8e43d24ebf3eaf394a6ba505382df96d.webp 400w,
+/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_4804986f866ca3f769d0b417160d6f3a.webp 760w,
+/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://rezamehrizi.github.io/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_8e43d24ebf3eaf394a6ba505382df96d.webp"
 width="760"
 height="475"
 loading="lazy" data-zoomable />&lt;/div>
@@ -900,7 +900,7 @@ Hello, this is Bing. Based on the image description, here is a possible interpre
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pio&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">write_html&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">fig&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">file&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s1">&amp;#39;sentiment-word-bar.html&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">auto_open&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="kc">False&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">include_plotlyjs&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s1">&amp;#39;cdn&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/details></description></item><item><title>Text Sentiment Analysis and Summarization</title><link>https://rezamehrizi.github.io/rezamehrizi/project/nlp/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/rezamehrizi/project/nlp/</guid><description>&lt;p>Coming soon&lt;/p></description></item><item><title>Smart Object Detection and Tracking using OpenCV</title><link>https://rezamehrizi.github.io/rezamehrizi/project/object-detection/</link><pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/rezamehrizi/project/object-detection/</guid><description>&lt;style>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/details></description></item><item><title>Text Sentiment Analysis and Summarization</title><link>https://rezamehrizi.github.io/project/nlp/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/project/nlp/</guid><description>&lt;p>Coming soon&lt;/p></description></item><item><title>Smart Object Detection and Tracking using OpenCV</title><link>https://rezamehrizi.github.io/project/object-detection/</link><pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/project/object-detection/</guid><description>&lt;style>
 body {
 text-align: justify}
 &lt;/style>
@@ -937,10 +937,10 @@ text-align: justify}
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Image 1" srcset="
-/rezamehrizi/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_bbd3c4d86556cf9c8554d9b8bcdc4240.webp 400w,
-/rezamehrizi/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_3f1c4ebc9ee390c2d64258d3aa4ce7f6.webp 760w,
-/rezamehrizi/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://rezamehrizi.github.io/rezamehrizi/rezamehrizi/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_bbd3c4d86556cf9c8554d9b8bcdc4240.webp"
+/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_bbd3c4d86556cf9c8554d9b8bcdc4240.webp 400w,
+/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_3f1c4ebc9ee390c2d64258d3aa4ce7f6.webp 760w,
+/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://rezamehrizi.github.io/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_bbd3c4d86556cf9c8554d9b8bcdc4240.webp"
 width="760"
 height="380"
 loading="lazy" data-zoomable />&lt;/div>
@@ -964,10 +964,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Image 2" srcset="
-/rezamehrizi/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_688ea6b911c8fae66aa467ca37492dbb.webp 400w,
-/rezamehrizi/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_8a6239138d2c900c0a3367d3d26c24b6.webp 760w,
-/rezamehrizi/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://rezamehrizi.github.io/rezamehrizi/rezamehrizi/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_688ea6b911c8fae66aa467ca37492dbb.webp"
+/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_688ea6b911c8fae66aa467ca37492dbb.webp 400w,
+/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_8a6239138d2c900c0a3367d3d26c24b6.webp 760w,
+/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://rezamehrizi.github.io/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_688ea6b911c8fae66aa467ca37492dbb.webp"
 width="760"
 height="380"
 loading="lazy" data-zoomable />&lt;/div>
@@ -1001,7 +1001,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">cap&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">release&lt;/span>&lt;span class="p">()&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">cv2&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">destroyAllWindows&lt;/span>&lt;span class="p">()&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Anomaly Detection and Root Cause Analysis</title><link>https://rezamehrizi.github.io/rezamehrizi/project/change-point/</link><pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/rezamehrizi/project/change-point/</guid><description>&lt;p>Statistical analysis often involves identifying sudden changes in time series signals. In this project, I will employ the &lt;a href="https://arxiv.org/abs/2009.08573" target="_blank" rel="noopener">&lt;strong>Pattern Recovery Using Trend Filtering (PRUTF)&lt;/strong>&lt;/a> anomaly detection method, which we introduced in &lt;a href="https://arxiv.org/abs/2009.08573v1" target="_blank" rel="noopener">this paper&lt;/a>. Afterward, I will discuss performing post-selection statistical inference for the anomalies estimated using PRUTF, as detailed in our &lt;a href="https://arxiv.org/abs/2104.12022" target="_blank" rel="noopener">post-selection inference paper&lt;/a>. In the following, I will provide a concise overview of the methods presented in these papers and subsequently apply them to the Coronavirus Disease (COVID-19) pandemic dataset.&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Anomaly Detection and Root Cause Analysis</title><link>https://rezamehrizi.github.io/project/change-point/</link><pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/project/change-point/</guid><description>&lt;p>Statistical analysis often involves identifying sudden changes in time series signals. In this project, I will employ the &lt;a href="https://arxiv.org/abs/2009.08573" target="_blank" rel="noopener">&lt;strong>Pattern Recovery Using Trend Filtering (PRUTF)&lt;/strong>&lt;/a> anomaly detection method, which we introduced in &lt;a href="https://arxiv.org/abs/2009.08573v1" target="_blank" rel="noopener">this paper&lt;/a>. Afterward, I will discuss performing post-selection statistical inference for the anomalies estimated using PRUTF, as detailed in our &lt;a href="https://arxiv.org/abs/2104.12022" target="_blank" rel="noopener">post-selection inference paper&lt;/a>. In the following, I will provide a concise overview of the methods presented in these papers and subsequently apply them to the Coronavirus Disease (COVID-19) pandemic dataset.&lt;/p>
 &lt;h3 id="overview-of-prutf-and-post-selection-inference">Overview of PRUTF and Post-Selection Inference&lt;/h3>
 &lt;p>&lt;strong>Overview of PRUTF:&lt;/strong> The paper &lt;a href="https://arxiv.org/abs/2009.08573" target="_blank" rel="noopener">Detection of Change Points in Piecewise Polynomial Signals Using Trend Filtering&lt;/a> proposes a new methodology called Pattern Recovery Using Trend Filtering (PRUTF) for identifying unknown change points in piecewise polynomial signals with no continuity restrictions at the change point locations. The paper considers a univariate signal plus noise model, where the signal is deterministic and unknown, with equally spaced input points over the unit interval. Additionally, it is assumed that the signal undergoes unpredictable and distinct changes. With this setup, the objective of this anomaly detection analysis is to estimate the number of anomalies as well as their locations.&lt;/p>
 &lt;p>Our approach, PRUTF, is inspired by &lt;a href="https://projecteuclid.org/journals/annals-of-statistics/volume-42/issue-1/Adaptive-piecewise-polynomial-estimation-via-trend-filtering/10.1214/13-AOS1189.full" target="_blank" rel="noopener">Tibshirani&amp;rsquo;s method&lt;/a> but introduces a modification to accelerate the algorithm&amp;rsquo;s implementation. PRUTF identifies change points at each regularization parameter level and removes some dual variable coordinates after each change point, ensuring independent dual variables between neighboring change points. The paper establishes a stopping criterion crucial for PRUTF&amp;rsquo;s operation. Notably, the dual variables of trend filtering between consecutive change points form a Gaussian bridge process, allowing the introduction of a termination threshold for the algorithm. However, in cases of a staircase pattern in the signal, the method becomes statistically inconsistent. To address this, the paper proposes a modification to PRUTF, providing consistent estimates for both the number and location of change points.&lt;/p>
