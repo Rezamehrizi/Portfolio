@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sentiment Analysis | Reza Mehrizi</title><link>https://rezamehrizi.github.io/Portfolio/tag/sentiment-analysis/</link><atom:link href="https://rezamehrizi.github.io/Portfolio/tag/sentiment-analysis/index.xml" rel="self" type="application/rss+xml"/><description>Sentiment Analysis</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://rezamehrizi.github.io/Portfolio/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Sentiment Analysis</title><link>https://rezamehrizi.github.io/Portfolio/tag/sentiment-analysis/</link></image><item><title>Web Scraping Insights from AI Related YouTube Videos</title><link>https://rezamehrizi.github.io/Portfolio/project/web-scrapping/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/Portfolio/project/web-scrapping/</guid><description>&lt;style>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sentiment Analysis | Reza Mehrizi</title><link>https://rezamehrizi.github.io/rezamehrizi/tag/sentiment-analysis/</link><atom:link href="https://rezamehrizi.github.io/rezamehrizi/tag/sentiment-analysis/index.xml" rel="self" type="application/rss+xml"/><description>Sentiment Analysis</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://rezamehrizi.github.io/rezamehrizi/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Sentiment Analysis</title><link>https://rezamehrizi.github.io/rezamehrizi/tag/sentiment-analysis/</link></image><item><title>Web Scraping Insights from AI Related YouTube Videos</title><link>https://rezamehrizi.github.io/rezamehrizi/project/web-scrapping/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/rezamehrizi/project/web-scrapping/</guid><description>&lt;style>
 body {
 text-align: justify}
 &lt;/style>
@@ -18,10 +18,10 @@ text-align: justify}
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="ideogram-webscraping" srcset="
-/Portfolio/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_b902eb7733e67c63898031c6d9c7c21a.webp 400w,
-/Portfolio/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_aec770f18e2a095616a37ea6c784f8f8.webp 760w,
-/Portfolio/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://rezamehrizi.github.io/Portfolio/Portfolio/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_b902eb7733e67c63898031c6d9c7c21a.webp"
+/rezamehrizi/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_b902eb7733e67c63898031c6d9c7c21a.webp 400w,
+/rezamehrizi/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_aec770f18e2a095616a37ea6c784f8f8.webp 760w,
+/rezamehrizi/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://rezamehrizi.github.io/rezamehrizi/rezamehrizi/project/web-scrapping/ideogram-webscraping_hubc38e678ca0830f15e5a1ce93450727e_63249_b902eb7733e67c63898031c6d9c7c21a.webp"
 width="760"
 height="475"
 loading="lazy" data-zoomable />&lt;/div>
@@ -172,10 +172,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="ideogram-processing" srcset="
-/Portfolio/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_604e96a30e44ec8cc5dc73cfd1ada025.webp 400w,
-/Portfolio/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_5d95a0511f66cb75513482286e657df1.webp 760w,
-/Portfolio/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://rezamehrizi.github.io/Portfolio/Portfolio/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_604e96a30e44ec8cc5dc73cfd1ada025.webp"
+/rezamehrizi/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_604e96a30e44ec8cc5dc73cfd1ada025.webp 400w,
+/rezamehrizi/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_5d95a0511f66cb75513482286e657df1.webp 760w,
+/rezamehrizi/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://rezamehrizi.github.io/rezamehrizi/rezamehrizi/project/web-scrapping/ideogram-processing_hu7b2d9d2b4b133471a0134f833b3295ab_46896_604e96a30e44ec8cc5dc73cfd1ada025.webp"
 width="760"
 height="475"
 loading="lazy" data-zoomable />&lt;/div>
@@ -290,10 +290,10 @@ A new column, &lt;code>duration_minutes&lt;/code> is added to the table to store
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="ideogram-analysis" srcset="
-/Portfolio/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_8e43d24ebf3eaf394a6ba505382df96d.webp 400w,
-/Portfolio/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_4804986f866ca3f769d0b417160d6f3a.webp 760w,
-/Portfolio/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://rezamehrizi.github.io/Portfolio/Portfolio/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_8e43d24ebf3eaf394a6ba505382df96d.webp"
+/rezamehrizi/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_8e43d24ebf3eaf394a6ba505382df96d.webp 400w,
+/rezamehrizi/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_4804986f866ca3f769d0b417160d6f3a.webp 760w,
+/rezamehrizi/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://rezamehrizi.github.io/rezamehrizi/rezamehrizi/project/web-scrapping/ideogram-analysis_hu69508825fb595141711cf3ee5f963145_36697_8e43d24ebf3eaf394a6ba505382df96d.webp"
 width="760"
 height="475"
 loading="lazy" data-zoomable />&lt;/div>
@@ -900,4 +900,4 @@ Hello, this is Bing. Based on the image description, here is a possible interpre
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pio&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">write_html&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">fig&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">file&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s1">&amp;#39;sentiment-word-bar.html&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">auto_open&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="kc">False&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">include_plotlyjs&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s1">&amp;#39;cdn&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/details></description></item><item><title>Text Sentiment Analysis and Summarization</title><link>https://rezamehrizi.github.io/Portfolio/project/nlp/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/Portfolio/project/nlp/</guid><description>&lt;p>Coming soon&lt;/p></description></item></channel></rss>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/details></description></item><item><title>Text Sentiment Analysis and Summarization</title><link>https://rezamehrizi.github.io/rezamehrizi/project/nlp/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/rezamehrizi/project/nlp/</guid><description>&lt;p>Coming soon&lt;/p></description></item></channel></rss>

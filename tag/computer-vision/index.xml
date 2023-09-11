@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Computer Vision | Reza Mehrizi</title><link>https://rezamehrizi.github.io/Portfolio/tag/computer-vision/</link><atom:link href="https://rezamehrizi.github.io/Portfolio/tag/computer-vision/index.xml" rel="self" type="application/rss+xml"/><description>Computer Vision</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate><image><url>https://rezamehrizi.github.io/Portfolio/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Computer Vision</title><link>https://rezamehrizi.github.io/Portfolio/tag/computer-vision/</link></image><item><title>Smart Object Detection and Tracking using OpenCV</title><link>https://rezamehrizi.github.io/Portfolio/project/object-detection/</link><pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/Portfolio/project/object-detection/</guid><description>&lt;style>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Computer Vision | Reza Mehrizi</title><link>https://rezamehrizi.github.io/rezamehrizi/tag/computer-vision/</link><atom:link href="https://rezamehrizi.github.io/rezamehrizi/tag/computer-vision/index.xml" rel="self" type="application/rss+xml"/><description>Computer Vision</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate><image><url>https://rezamehrizi.github.io/rezamehrizi/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Computer Vision</title><link>https://rezamehrizi.github.io/rezamehrizi/tag/computer-vision/</link></image><item><title>Smart Object Detection and Tracking using OpenCV</title><link>https://rezamehrizi.github.io/rezamehrizi/project/object-detection/</link><pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/rezamehrizi/project/object-detection/</guid><description>&lt;style>
 body {
 text-align: justify}
 &lt;/style>
@@ -35,10 +35,10 @@ text-align: justify}
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Image 1" srcset="
-/Portfolio/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_bbd3c4d86556cf9c8554d9b8bcdc4240.webp 400w,
-/Portfolio/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_3f1c4ebc9ee390c2d64258d3aa4ce7f6.webp 760w,
-/Portfolio/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://rezamehrizi.github.io/Portfolio/Portfolio/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_bbd3c4d86556cf9c8554d9b8bcdc4240.webp"
+/rezamehrizi/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_bbd3c4d86556cf9c8554d9b8bcdc4240.webp 400w,
+/rezamehrizi/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_3f1c4ebc9ee390c2d64258d3aa4ce7f6.webp 760w,
+/rezamehrizi/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://rezamehrizi.github.io/rezamehrizi/rezamehrizi/project/object-detection/image1_hu5c2ccd321f5b8134f3d0e13a5763818b_1639339_bbd3c4d86556cf9c8554d9b8bcdc4240.webp"
 width="760"
 height="380"
 loading="lazy" data-zoomable />&lt;/div>
@@ -62,10 +62,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Image 2" srcset="
-/Portfolio/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_688ea6b911c8fae66aa467ca37492dbb.webp 400w,
-/Portfolio/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_8a6239138d2c900c0a3367d3d26c24b6.webp 760w,
-/Portfolio/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://rezamehrizi.github.io/Portfolio/Portfolio/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_688ea6b911c8fae66aa467ca37492dbb.webp"
+/rezamehrizi/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_688ea6b911c8fae66aa467ca37492dbb.webp 400w,
+/rezamehrizi/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_8a6239138d2c900c0a3367d3d26c24b6.webp 760w,
+/rezamehrizi/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://rezamehrizi.github.io/rezamehrizi/rezamehrizi/project/object-detection/image2_hu5271030920d75e4d331ced76e626f803_1891226_688ea6b911c8fae66aa467ca37492dbb.webp"
 width="760"
 height="380"
 loading="lazy" data-zoomable />&lt;/div>
