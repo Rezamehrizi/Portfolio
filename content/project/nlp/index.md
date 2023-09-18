@@ -1,5 +1,5 @@
 ---
-title: Video transcription, Summarization, and Content Analysis
+title: Video Transcription, Summarization, and Content Analysis
 summary: This project involves YouTube video transcription, summarization, and content analysis which empower users to extract valuable insights, save time, and enhance their understanding of video content. These tools are invaluable for content creators, researchers, and anyone looking to navigate the rich and diverse world of YouTube videos with ease and efficiency.
 
 tags:
