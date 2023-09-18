@@ -18,14 +18,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: youtube
+- icon: Streamlit Application
   icon_pack: fab
   name: Videos
-  url: https://www.youtube.com/channel/UCP4VxGtAnuuOWwy863UdcTA
-- icon: github
-  icon_pack: fab
-  name: Github
-  url: https://github.com/datasci-mt
+  url: https://chmwddgsygxdixucx4qung.streamlit.app/
 url_code: ""
 url_pdf: ""
 url_slides: ""
