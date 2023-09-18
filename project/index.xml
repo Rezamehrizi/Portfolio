@@ -900,7 +900,7 @@ Hello, this is Bing. Based on the image description, here is a possible interpre
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pio&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">write_html&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">fig&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">file&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s1">&amp;#39;sentiment-word-bar.html&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">auto_open&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="kc">False&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">include_plotlyjs&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s1">&amp;#39;cdn&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/details></description></item><item><title>Video transcription, Summarization, and Content Analysis</title><link>https://rezamehrizi.github.io/project/nlp/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/project/nlp/</guid><description>&lt;style>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/details></description></item><item><title>Video Transcription, Summarization, and Content Analysis</title><link>https://rezamehrizi.github.io/project/nlp/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/project/nlp/</guid><description>&lt;style>
 body {
 text-align: justify}
 &lt;/style>
