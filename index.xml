@@ -911,7 +911,56 @@ Hello, this is Bing. Based on the image description, here is a possible interpre
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pio&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">write_html&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">fig&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">file&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s1">&amp;#39;sentiment-word-bar.html&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">auto_open&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="kc">False&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">include_plotlyjs&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s1">&amp;#39;cdn&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/details></description></item><item><title>Text Sentiment Analysis and Summarization</title><link>https://rezamehrizi.github.io/project/nlp/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/project/nlp/</guid><description>&lt;p>Coming soon&lt;/p></description></item><item><title>Human Inspired Autonomous Intersection Handling Using Game Theory</title><link>https://rezamehrizi.github.io/publication/journal-article1/</link><pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/publication/journal-article1/</guid><description/></item><item><title>Smart Object Detection and Tracking using OpenCV</title><link>https://rezamehrizi.github.io/project/object-detection/</link><pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/project/object-detection/</guid><description>&lt;style>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/details></description></item><item><title>Video transcription, Summarization, and Content Analysis</title><link>https://rezamehrizi.github.io/project/nlp/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/project/nlp/</guid><description>&lt;style>
+body {
+text-align: justify}
+&lt;/style>
+&lt;p>In this project, I will be working on a Python-based project that focuses on analyzing YouTube videos. This comprehensive project involves various essential aspects such as transcribing, summarizing, and analyzing the content.&lt;/p>
+&lt;p>&lt;strong>Transcription:&lt;/strong> In the transcription phase, I am implementing automated tools to convert the spoken content of YouTube videos into written text. This allows for a detailed and accurate representation of the video&amp;rsquo;s dialogue or narration.&lt;/p>
+&lt;p>&lt;strong>Summarization:&lt;/strong> The summarization component involves the extraction of essential information from the transcribed text. Using advanced techniques, I aim to provide concise and coherent summaries of the video&amp;rsquo;s content, making it more accessible and digestible for viewers.&lt;/p>
+&lt;p>&lt;strong>Content Analysis:&lt;/strong> Beyond transcription and summarization, my project delves into comprehensive content analysis. This includes examining various aspects such as sensitivity, topics, sentiment, and entities discussed within the video.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;em>Sensitivity Analysis:&lt;/em> I am working on tools to assess the sensitivity of the video&amp;rsquo;s content, highlighting potentially controversial or sensitive subjects.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Topic Analysis:&lt;/em> The project identifies and categorizes the main topics and themes covered in the video, allowing for a deeper understanding of its subject matter.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Sentiment Analysis:&lt;/em> Through sentiment analysis, I aim to determine the emotional tone and sentiment expressed in the video, whether it&amp;rsquo;s positive, negative, neutral, or a blend of these.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Entity Analysis:&lt;/em> This component identifies and analyzes specific individuals, organizations, locations, or noteworthy subjects mentioned in the video, providing insights into key figures or entities related to the content.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>By combining these elements, my project aims to enhance the accessibility and comprehension of YouTube videos, offering valuable insights and summaries to viewers.&lt;/p>
+&lt;p>The following is the list of the tools and libraries commonly used for the tasks of YouTube video transcription, summarization, and content analysis in Python:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>pytube:&lt;/strong> Pytube is a Python library for downloading YouTube videos. It allows you to fetch video data, including audio streams, which can be used for transcription.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>AssemblyAI:&lt;/strong> AssemblyAI is an API service that provides automatic speech recognition (ASR) for transcribing audio content, including YouTube video audio. It offers accurate transcription results and supports various languages.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Google Cloud Speech-to-Text:&lt;/strong> Google&amp;rsquo;s Speech-to-Text API can be used for transcribing audio content from YouTube videos. It&amp;rsquo;s a cloud-based service that offers robust speech recognition capabilities.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Natural Language Toolkit (NLTK):&lt;/strong> NLTK is a powerful library for natural language processing in Python. It can be used to implement extractive text summarization techniques to generate concise summaries from transcribed text.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Gensim:&lt;/strong> Gensim is another Python library that provides tools for topic modeling and text summarization. It&amp;rsquo;s suitable for abstractive summarization approaches as well.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>SpaCy:&lt;/strong> SpaCy is a popular library for natural language processing tasks, including entity recognition. It can help identify and classify entities (e.g., people, organizations, locations) mentioned in the text.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>I am leveraging the combination of &lt;em>pytube&lt;/em> and &lt;em>AssemblyAI&lt;/em> to create this YouTube video analysis web in Python.&lt;/p>
+&lt;p>This project takes a YouTube video link as input and performs the content analysis. The project&amp;rsquo;s results are presented on a website built with Streamlit, making it easy to access and explore the insights derived from the video&amp;rsquo;s content.&lt;/p>
+&lt;p>Take a moment to explore this Streamlit web application and discover the insights it provides from the YouTube videos you input. Simply click the link below to get started!&lt;/p>
+&lt;div style="text-align: center;">
+&lt;a href="https://chmwddgsygxdixucx4qung.streamlit.app/" target="_blank" style="display: inline-block; background-color: #007BFF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visit My Streamlit Website&lt;/a>
+&lt;/div></description></item><item><title>Human Inspired Autonomous Intersection Handling Using Game Theory</title><link>https://rezamehrizi.github.io/publication/journal-article1/</link><pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/publication/journal-article1/</guid><description/></item><item><title>Smart Object Detection and Tracking using OpenCV</title><link>https://rezamehrizi.github.io/project/object-detection/</link><pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/project/object-detection/</guid><description>&lt;style>
 body {
 text-align: justify}
 &lt;/style>
@@ -1177,7 +1226,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-261785493" class="chart">&lt;/div>
+&lt;div id="chart-428397561" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -1186,7 +1235,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-261785493', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-428397561', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
