@@ -82,7 +82,7 @@ sections:
         - title: Lecturer of Statistics
           company: University of Semnan
           company_url: 'https://english.semnan.ac.ir/'
-          company_logo: org-x
+          company_logo: sem-logo
           location: Semnan
           date_start: '2010-09-01'
           date_end: '2016-08-31'
