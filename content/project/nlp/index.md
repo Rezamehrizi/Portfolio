@@ -20,7 +20,7 @@ image:
 links:
 - icon: Streamlit Application
   icon_pack: fab
-  name: Videos
+  name: Streamlit Application
   url: https://chmwddgsygxdixucx4qung.streamlit.app/
 url_code: ""
 url_pdf: ""
