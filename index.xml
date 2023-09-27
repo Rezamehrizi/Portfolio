@@ -915,7 +915,10 @@ Hello, this is Bing. Based on the image description, here is a possible interpre
 body {
 text-align: justify}
 &lt;/style>
-&lt;p>In this project, I will be working on a Python-based project that focuses on analyzing YouTube videos. This comprehensive project involves various essential aspects such as transcribing, summarizing, and analyzing the content.&lt;/p>
+&lt;div style="text-align: center;">
+&lt;a href="https://chmwddgsygxdixucx4qung.streamlit.app/" target="_blank" style="display: inline-block; background-color: #007BFF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visit My Streamlit Website&lt;/a>
+&lt;/div>
+In this project, I will be working on a Python-based project that focuses on analyzing YouTube videos. This comprehensive project involves various essential aspects such as transcribing, summarizing, and analyzing the content.
 &lt;p>&lt;strong>Transcription:&lt;/strong> In the transcription phase, I am implementing automated tools to convert the spoken content of YouTube videos into written text. This allows for a detailed and accurate representation of the video&amp;rsquo;s dialogue or narration.&lt;/p>
 &lt;p>&lt;strong>Summarization:&lt;/strong> The summarization component involves the extraction of essential information from the transcribed text. Using advanced techniques, I aim to provide concise and coherent summaries of the video&amp;rsquo;s content, making it more accessible and digestible for viewers.&lt;/p>
 &lt;p>&lt;strong>Content Analysis:&lt;/strong> Beyond transcription and summarization, my project delves into comprehensive content analysis. This includes examining various aspects such as sensitivity, topics, sentiment, and entities discussed within the video.&lt;/p>
@@ -1226,7 +1229,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-952361487" class="chart">&lt;/div>
+&lt;div id="chart-968127534" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -1235,7 +1238,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-952361487', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-968127534', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
