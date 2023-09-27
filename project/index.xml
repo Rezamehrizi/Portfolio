@@ -905,9 +905,9 @@ body {
 text-align: justify}
 &lt;/style>
 &lt;div style="text-align: center;">
-&lt;a href="https://chmwddgsygxdixucx4qung.streamlit.app/" target="_blank" style="display: inline-block; background-color: #007BFF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visit My Streamlit Website&lt;/a>
+&lt;a href="https://chmwddgsygxdixucx4qung.streamlit.app/" target="_blank" style="display: inline-block; background-color: #007BFF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visit My YouTube Video Summarizer&lt;/a>
 &lt;/div>
-In this project, I will be working on a Python-based project that focuses on analyzing YouTube videos. This comprehensive project involves various essential aspects such as transcribing, summarizing, and analyzing the content.
+&lt;p>In this project, I will be working on a Python-based project that focuses on analyzing YouTube videos. This comprehensive project involves various essential aspects such as transcribing, summarizing, and analyzing the content.&lt;/p>
 &lt;p>&lt;strong>Transcription:&lt;/strong> In the transcription phase, I am implementing automated tools to convert the spoken content of YouTube videos into written text. This allows for a detailed and accurate representation of the video&amp;rsquo;s dialogue or narration.&lt;/p>
 &lt;p>&lt;strong>Summarization:&lt;/strong> The summarization component involves the extraction of essential information from the transcribed text. Using advanced techniques, I aim to provide concise and coherent summaries of the video&amp;rsquo;s content, making it more accessible and digestible for viewers.&lt;/p>
 &lt;p>&lt;strong>Content Analysis:&lt;/strong> Beyond transcription and summarization, my project delves into comprehensive content analysis. This includes examining various aspects such as sensitivity, topics, sentiment, and entities discussed within the video.&lt;/p>
@@ -951,7 +951,7 @@ In this project, I will be working on a Python-based project that focuses on ana
 &lt;p>This project takes a YouTube video link as input and performs the content analysis. The project&amp;rsquo;s results are presented on a website built with Streamlit, making it easy to access and explore the insights derived from the video&amp;rsquo;s content.&lt;/p>
 &lt;p>Take a moment to explore this Streamlit web application and discover the insights it provides from the YouTube videos you input. Simply click the link below to get started!&lt;/p>
 &lt;div style="text-align: center;">
-&lt;a href="https://chmwddgsygxdixucx4qung.streamlit.app/" target="_blank" style="display: inline-block; background-color: #007BFF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visit My Streamlit Website&lt;/a>
+&lt;a href="https://chmwddgsygxdixucx4qung.streamlit.app/" target="_blank" style="display: inline-block; background-color: #007BFF; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visit My YouTube Video Summarizer&lt;/a>
 &lt;/div></description></item><item><title>Smart Object Detection and Tracking using OpenCV</title><link>https://rezamehrizi.github.io/project/object-detection/</link><pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate><guid>https://rezamehrizi.github.io/project/object-detection/</guid><description>&lt;style>
 body {
 text-align: justify}
