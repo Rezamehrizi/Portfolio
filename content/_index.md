@@ -37,7 +37,7 @@ sections:
           description: 90%
           icon: database
           icon_pack: fas
-        - name: NLP
+        - name: NLP | LLM
           description: 80%
           icon: file-code
           icon_pack: fas
